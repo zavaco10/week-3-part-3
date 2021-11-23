@@ -1,4 +1,4 @@
-# Prime Tier 1 Week 3 - Part 3
+# EDA Tier 1 Week 3 - Part 3
 
 This week, we will continue to put more into your tool belt by tackling methods for handling tasks multiple times, storing multiple pieces of information, and more advanced decision tools.
 
@@ -35,6 +35,6 @@ There is also a small styling task in the CSS file this week. We'll build on thi
 Optionally, you may also write any remaining questions you have for the week in the HTML file.
 
 ## Assignment Submission
-Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
+Check in your repo, then turn in your work via the Prime Academy Assignment Application at https://portal.emergingacademy.org, as usual and don't hesitate to hit up the Slack channel as needed!
 
 **Make sure that you answer this week's discussion question in Slack!**
